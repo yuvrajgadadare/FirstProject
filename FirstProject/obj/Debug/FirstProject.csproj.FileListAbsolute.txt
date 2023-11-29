@@ -1,0 +1,7 @@
+C:\pooja sutar\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\pooja sutar\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\pooja sutar\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\pooja sutar\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\pooja sutar\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\pooja sutar\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\pooja sutar\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
