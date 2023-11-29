@@ -18,7 +18,7 @@ namespace FirstProject
         }
         public void Mul()
         {
-            int a, b, c;
+            int a, b, c
             a = 50;
             b = 10;
             c = a * b;
